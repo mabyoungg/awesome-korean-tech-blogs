@@ -12,6 +12,7 @@
 
 - [국내 기업 기술 블로그 (Korean Tech Blogs)](#국내-기업-기술-블로그-korean-tech-blogs)
 - [해외 기업 기술 블로그 (Global Tech Blogs)](#해외-기업-기술-블로그-global-tech-blogs)
+- [기여 방법 (Contributing)](#기여-방법-contributing)
 
 ---
 
@@ -114,3 +115,9 @@
 | OpenAI                   | https://developers.openai.com/blog                                   |      |
 | PayPal                   | https://medium.com/paypal-tech                                       |      |
 | Slack                    | https://slack.engineering/                                           |      |
+
+---
+
+## 기여 방법 (Contributing)
+
+자세한 등록 기준과 기여 방법은 [**기여 가이드라인**](CONTRIBUTING.md)에서 확인하실 수 있습니다.
