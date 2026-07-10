@@ -1,0 +1,37 @@
+name: Auto Format Markdown Table
+
+on:
+  pull_request_target:
+    branches: [ main ]
+
+jobs:
+  format:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: Sort Markdown Tables
+        uses: brandonhimpfen/markdown-table-sorter@v1
+        with:
+          files: 'README.md'
+          column: '1'
+
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: Run Prettier
+        run: npx prettier --write README.md
+
+      - name: Git Auto Commit
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: auto-sort and format markdown tables"
