@@ -27,8 +27,8 @@
 | NHN Cloud                             | https://meetup.nhncloud.com/                                |                                                  |
 | PRND / 헤이딜러                       | https://medium.com/prnd                                     |                                                  |
 | SK                                    | https://devocean.sk.com/tech                                |                                                  |
-| SK C&C                                | https://engineering-skcc.github.io/                         |                        🔴                        |
-| SK플래닛 / OK캐시백, 시럽             | https://techtopic.skplanet.com/                             |                                                  |
+| SK AX                                | https://www.skax.co.kr/insight/trends                         |   [이전](https://engineering-skcc.github.io/)          |
+| SK플래닛 / OK캐시백, 시럽             | https://techtopic.skplanet.com/                             | [이전](https://web.archive.org/web/20190116065552/http://readme.skplanet.com/) |
 | VCNC / 타다                           | https://blog-tech.tadatada.com/                             |                                                  |
 | 네이버                                | https://d2.naver.com/home                                   |                                                  |
 | 네이버랩스                            | https://www.naverlabs.com/blogList                          |                                                  |
@@ -58,7 +58,7 @@
 | 삼성                                  | https://techblog.samsung.com/                               |                                                  |
 | 삼성SDS                               | https://www.samsungsds.com/kr/research-blog/index.html      |                                                  |
 | 삼성반도체                            | https://semiconductor.samsung.com/kr/news-events/tech-blog/ |                                                  |
-| 스타일쉐어                            | https://medium.com/styleshare                               |                        🔴                        |
+| 스타일쉐어                            | https://medium.com/styleshare                               |                        🔴(인수합병)                         |
 | 스포카                                | https://spoqa.github.io/                                    |                                                  |
 | 쏘카                                  | https://tech.socar.kr/                                      |                                                  |
 | 씨제이올리브영/ 올리브영              | https://oliveyoung.tech/                                    |                                                  |
@@ -81,7 +81,7 @@
 | 카카오뱅크                            | https://tech.kakaobank.com/                                 |                                                  |
 | 카카오스타일                          | https://devblog.kakaostyle.com/ko/                          |                                                  |
 | 카카오엔터테인먼트                    | https://tech.kakaoent.com/                                  |                                                  |
-| 카카오엔터프라이즈                    | https://tech.kakaoenterprise.com/                           |                        🔴                        |
+| 카카오엔터프라이즈 / 카카오클라우드  | https://blog.kakaocloud.com/                           |     [이전](https://tech.kakaoenterprise.com/)         |
 | 카카오페이                            | https://tech.kakaopay.com/                                  |                                                  |
 | 커넥트웨이브 / 다나와                 | https://danawalab.github.io/                                |                                                  |
 | 컬리                                  | https://helloworld.kurly.com/                               |                                                  |
@@ -96,6 +96,12 @@
 | 하이퍼커넥트 / 아자르                 | https://hyperconnect.github.io/                             |                                                  |
 | 휴먼스케이프                          | https://medium.com/humanscape-tech                          |                        🔴                        |
 | 힐링페이퍼 / 강남언니                 | https://blog.gangnamunni.com/blog/tech                      |                                                  |
+| 카카오헤어샵 | https://brunch.co.kr/@purpledev  | 🔴(영업양도)  |
+| 원스토어 | https://www.onestorecorp.com/sv/techblog/ | 🔴 |
+| 드림어스컴퍼니 / FLO | https://www.blog-dreamus.com/dreamus-now |  |
+| SK쉴더스 | https://www.skshieldus.com/security-insights/trends |  |
+| 하이퍼엑셀 | https://hyper-accel.github.io/ |  |
+| 업스테이지 | https://www.upstage.ai/blog |  |
 
 ---
 
