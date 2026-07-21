@@ -32,7 +32,7 @@
 | VCNC / 타다                           | https://blog-tech.tadatada.com/                             |                                                  |
 | 네이버                                | https://d2.naver.com/home                                   |                                                  |
 | 네이버랩스                            | https://www.naverlabs.com/blogList                          |                                                  |
-| 네이버클라우드 / CLOVA                | https://clova.ai/tech-blog                                  |                                                  |
+| 네이버클라우드 / CLOVA                | https://clova.ai/tech-blog                                  | [이전](https://medium.com/naver-cloud-platform) |
 | 네이버파이낸셜 / 네이버페이           | https://medium.com/naverfinancial                           |                                                  |
 | 네이버플레이스                        | https://medium.com/naver-place-dev                          |                                                  |
 | 넥슨 / 게임스케일                     | https://www.gamescale.io/ko/news                            |                                                  |
@@ -61,7 +61,7 @@
 | 스타일쉐어                            | https://medium.com/styleshare                               |                        🔴(인수합병)                         |
 | 스포카                                | https://spoqa.github.io/                                    |                                                  |
 | 쏘카                                  | https://tech.socar.kr/                                      |                                                  |
-| 씨제이올리브영/ 올리브영              | https://oliveyoung.tech/                                    |                                                  |
+| CJ올리브영/ 올리브영              | https://oliveyoung.tech/                                    |                                                  |
 | 안랩클라우드메이트                    | https://techblog.ahnlabcloudmate.com/                       |                                                  |
 | 야놀자클라우드                        | https://medium.com/yanoljacloud-tech                        |                        🔴                        |
 | 에잇퍼센트                            | https://8percent.github.io/                                 |                        🔴                        |
@@ -102,6 +102,65 @@
 | SK쉴더스 | https://www.skshieldus.com/security-insights/trends |  |
 | 하이퍼엑셀 | https://hyper-accel.github.io/ |  |
 | 업스테이지 | https://www.upstage.ai/blog |  |
+| 크몽 | [https://blog.kmong.com/](https://blog.kmong.com/subpage/f2333d195b2a) |  |
+| NC | https://ncsoft.github.io/ncresearch/blogs/ | [이전](https://danbi-ncsoft.github.io/) |
+| 티몬 | https://blog.naver.com/tmondev | 🔴 | 
+| 화해 | https://blog.hwahae.co.kr/category/all/tech |  |
+| 센드버드 | https://sendbird.com/ko/blog/category/engineering | 🔴 |
+| 클래스101 | https://medium.com/class101 | 🔴 |
+| 트렌비 | https://tech.trenbe.com/ | 🔴 |
+| 스캐터랩 / 제타 | https://blog.scatterlab.co.kr/ |  |
+| 직방 | https://medium.com/zigbang | 🔴 |
+| 무스마 | https://musma.github.io/ | 🔴 |
+| 데이블 | https://dabletech.oopy.io/ |  |
+| CJ온스타일 | https://medium.com/cj-onstyle | 🔴 | 
+| 테이블링 | https://techblog.tabling.co.kr/ | 🔴 |
+| 리디 | https://ridicorp.com/story-category/tech-blog/ |  |
+| 마키나락스 | https://www.makinarocks.ai/category/tech/ | [이전](https://makinarocks.github.io/) |
+| 토니모리 | https://tonymoly-tech.medium.com/ | 🔴 |
+| 가비아 | https://library.gabia.com/tech/ |  |
+| 네이버 DnA  | https://medium.com/naver-dna-tech-blog | 🔴 |
+| 모두싸인 | https://team.modusign.co.kr/all?topic=engineering |  |
+| 엔카닷컴 | https://medium.com/@encar-ai |  |
+| 글루시스 | https://tech.gluesys.com/ |  |
+| 더스윙 / 스윙 | https://www.theswing.tech/ |  |
+| 카카오모빌리티 | https://developers.kakaomobility.com/techblogs/ |  |
+| 바비톡 | https://medium.com/babitalk-blog |  |
+| 마이리얼트립 | https://blog.myrealtrip.com/ | [이전](https://medium.com/myrealtrip-product) |
+| 사람인 | https://saramin.github.io/ |  |
+| 버즈빌 | https://tech.buzzvil.com/ |  |
+| 롯데쇼핑 / 롯데ON | https://techblog.lotteon.com/ |  |
+| 비브로스 / 똑닥 | https://boostbrothers.github.io/ |  |
+| 매드업 | https://tech.madup.com/category/tech |  |
+| 펫프렌즈 | https://techblog.pet-friends.co.kr/ |  |
+| 베스핀글로벌 | https://blog.bespinglobal.com/tech/ |  |
+| 한컴 | https://tech.hancom.com/ |  |
+| 포스타입 | https://www.postype.com/@team |  |
+| AB180 | https://engineering.ab180.co/ |  |
+| 플렉스 | https://flex.team/blog/category/tech |  |
+| 포그리트 / 뷰저블 | https://www.beusable.net/blog/ |  |
+| 미리디 | https://medium.com/miridih/subpage/3d936b50f942 |  |
+| 오토피디아 | https://blog.doctor-cha.com/engineering | 🔴 |
+| 교보DTS | https://blog.kyobodts.co.kr/ |  |
+| 구름 | https://tech.goorm.io/category/tech-ko/ |  |
+| 라포랩스 / 퀸 | https://blog.rapportlabs.kr/category/engineering |  |
+| 어피닛 | https://blog.afinit.com/category/tech |  |
+| 자비스앤빌런즈 / 삼쩜삼 | https://blog.3o3.co.kr/tag/tech/ |  |
+| 브레이브모바일 / 숨고 | https://soomgo.team/blog/category/tech |  |
+| 아임웹 | https://tech.imweb.me/ |  |
+| 인포그랩 | https://insight.infograb.net/blog/ |  |
+| 카테노이드 | https://techblog.catenoid.net/ |  |
+| 와드 / 캐치테이블 | https://medium.com/catchtable |  |
+| 컴투스 | https://on.com2us.com/tag/%ea%b8%b0%ec%88%a0%ec%9d%b4%ec%95%bc%ea%b8%b0/ |  |
+| 크리에이트립 | https://medium.com/creatrip |  |
+| 크림 | https://medium.com/kream-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8 |  |
+| 현대오토에버 | https://blog.naver.com/PostList.naver?blogId=hyundai-autoever&categoryNo=8&from=postList&parentCategoryNo=13 |  |
+| kt cloud | https://tech.ktcloud.com/ |  |
+| 놀유니버스 / NOL | https://medium.com/@nol.tech |  |
+| SSG.COM | https://medium.com/ssgtech |  |
+| 티빙 | https://medium.com/tving-team |  |
+| 넥스트리 | https://www.nextree.io/tag/blog/ |  |
+| 중고나라 | https://teamblog.joonggonara.co.kr/ |  |
 
 ---
 
