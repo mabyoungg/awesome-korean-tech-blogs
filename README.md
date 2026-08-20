@@ -155,6 +155,14 @@
 | 화해                                  | https://blog.hwahae.co.kr/category/all/tech                 |                                                                                |
 | 휴먼스케이프                          | https://medium.com/humanscape-tech                          |                                       🔴                                       |
 | 힐링페이퍼 / 강남언니                 | https://blog.gangnamunni.com/blog/tech                      |                                                                                |
+| LG유플러스 | https://techblog.uplus.co.kr/ |  |
+| LG유플러스볼트업 | https://tech.voltup.kr/posts |  |
+| 스푼랩스 / 스푼, 비글루 | https://medium.com/spoontech |  |
+| LG AI연구원 | https://www.lgresearch.ai/blog |  |
+| LG CNS | https://www.lgcns.com/kr/moa/insight  |  |
+| 래블업 |  https://www.backend.ai/ko/blog/category/engineering  |  |
+| 메가존클라우드 |  https://blog.megazone.io/ |  |
+
 
 ---
 
@@ -165,7 +173,7 @@
 | Airbnb                   | https://medium.com/airbnb-engineering                                |      |
 | Amazon Web Services(AWS) | https://aws.amazon.com/blogs/, https://aws.amazon.com/ko/blogs/tech/ |      |
 | Dropbox                  | https://dropbox.tech/                                                |      |
-| Google                   | https://developers.googleblog.com/                                   |      |
+| Google                   | https://developers.googleblog.com/, https://developers-kr.googleblog.com/     |      |
 | Grab                     | https://engineering.grab.com/                                        |      |
 | Linkedin                 | https://www.linkedin.com/blog/engineering                            |      |
 | Meta                     | https://developers.facebook.com/blog/                                |      |
