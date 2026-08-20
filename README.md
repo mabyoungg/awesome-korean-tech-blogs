@@ -28,6 +28,10 @@
 | CJ올리브영/ 올리브영                  | https://oliveyoung.tech/                                    |                                                                                |
 | GS리테일                              | https://gsretail.tistory.com/                               |                                                                                |
 | kt cloud                              | https://tech.ktcloud.com/                                   |                                                                                |
+| LG AI연구원                           | https://www.lgresearch.ai/blog                              |                                                                                |
+| LG CNS                                | https://www.lgcns.com/kr/moa/insight                        |                                                                                |
+| LG유플러스                            | https://techblog.uplus.co.kr/                               |                                                                                |
+| LG유플러스볼트업                      | https://tech.voltup.kr/posts                                |                                                                                |
 | NC                                    | https://ncsoft.github.io/ncresearch/blogs/                  |                    [이전](https://danbi-ncsoft.github.io/)                     |
 | NHN Cloud                             | https://meetup.nhncloud.com/                                |                                                                                |
 | PRND / 헤이딜러                       | https://medium.com/prnd                                     |                                                                                |
@@ -63,6 +67,7 @@
 | 딜라이트룸                            | https://medium.com/delightroom                              |                                                                                |
 | 라인플러스                            | https://techblog.lycorp.co.jp/ko                            |                [이전](https://engineering.linecorp.com/ko/blog)                |
 | 라포랩스 / 퀸                         | https://blog.rapportlabs.kr/category/engineering            |                                                                                |
+| 래블업                                | https://www.backend.ai/ko/blog/category/engineering         |                                                                                |
 | 롯데쇼핑 / 롯데ON                     | https://techblog.lotteon.com/                               |                                                                                |
 | 리디                                  | https://ridicorp.com/story-category/tech-blog/              |                                                                                |
 | 리멤버앤컴퍼니 / 리멤버               | https://tech.remember.co.kr/                                |                                                                                |
@@ -70,6 +75,7 @@
 | 마키나락스                            | https://www.makinarocks.ai/category/tech/                   |                     [이전](https://makinarocks.github.io/)                     |
 | 매드업                                | https://tech.madup.com/category/tech                        |                                                                                |
 | 매스프레소 / 콴다                     | https://blog.mathpresso.com/                                |                                       🔴                                       |
+| 메가존클라우드                        | https://blog.megazone.io/                                   |                                                                                |
 | 모두싸인                              | https://team.modusign.co.kr/all?topic=engineering           |                                                                                |
 | 무스마                                | https://musma.github.io/                                    |                                       🔴                                       |
 | 무신사 / 무신사, 29CM                 | https://techblog.musinsa.com/                               |                        [이전](https://medium.com/29cm)                         |
@@ -91,6 +97,7 @@
 | 스캐터랩 / 제타                       | https://blog.scatterlab.co.kr/                              |                                                                                |
 | 스타일쉐어                            | https://medium.com/styleshare                               |                                  🔴(인수합병)                                  |
 | 스포카                                | https://spoqa.github.io/                                    |                                                                                |
+| 스푼랩스 / 스푼, 비글루               | https://medium.com/spoontech                                |                                                                                |
 | 쏘카                                  | https://tech.socar.kr/                                      |                                                                                |
 | 아임웹                                | https://tech.imweb.me/                                      |                                                                                |
 | 안랩클라우드메이트                    | https://techblog.ahnlabcloudmate.com/                       |                                                                                |
@@ -160,20 +167,20 @@
 
 ## 해외 기업 기술 블로그 (Global Tech Blogs)
 
-| 기업 / 서비스명          | 기술 블로그 링크                                                     | 비고 |
-| :----------------------- | :------------------------------------------------------------------- | :--: |
-| Airbnb                   | https://medium.com/airbnb-engineering                                |      |
-| Amazon Web Services(AWS) | https://aws.amazon.com/blogs/, https://aws.amazon.com/ko/blogs/tech/ |      |
-| Dropbox                  | https://dropbox.tech/                                                |      |
-| Google                   | https://developers.googleblog.com/                                   |      |
-| Grab                     | https://engineering.grab.com/                                        |      |
-| Linkedin                 | https://www.linkedin.com/blog/engineering                            |      |
-| Meta                     | https://developers.facebook.com/blog/                                |      |
-| Microsoft                | https://devblogs.microsoft.com/                                      |      |
-| Netflix                  | https://netflixtechblog.com/                                         |      |
-| OpenAI                   | https://developers.openai.com/blog                                   |      |
-| PayPal                   | https://medium.com/paypal-tech                                       |      |
-| Slack                    | https://slack.engineering/                                           |      |
+| 기업 / 서비스명          | 기술 블로그 링크                                                          | 비고 |
+| :----------------------- | :------------------------------------------------------------------------ | :--: |
+| Airbnb                   | https://medium.com/airbnb-engineering                                     |      |
+| Amazon Web Services(AWS) | https://aws.amazon.com/blogs/, https://aws.amazon.com/ko/blogs/tech/      |      |
+| Dropbox                  | https://dropbox.tech/                                                     |      |
+| Google                   | https://developers.googleblog.com/, https://developers-kr.googleblog.com/ |      |
+| Grab                     | https://engineering.grab.com/                                             |      |
+| Linkedin                 | https://www.linkedin.com/blog/engineering                                 |      |
+| Meta                     | https://developers.facebook.com/blog/                                     |      |
+| Microsoft                | https://devblogs.microsoft.com/                                           |      |
+| Netflix                  | https://netflixtechblog.com/                                              |      |
+| OpenAI                   | https://developers.openai.com/blog                                        |      |
+| PayPal                   | https://medium.com/paypal-tech                                            |      |
+| Slack                    | https://slack.engineering/                                                |      |
 
 ---
 
